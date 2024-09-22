@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alumno>
+    <ciudad>Lima</ciudad>
+    <edad>30</edad>
+    <nombre>Luis</nombre>
+</alumno>
